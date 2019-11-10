@@ -1,3 +1,5 @@
+## 'yarn start' or 'npm start'로 실행
+
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
